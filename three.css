@@ -1,4 +1,5 @@
-#cat{
-    background-color: blue;
-    border: 10px solid black;
+div{
+    background-color: aquamarine;
+    border: 10px solid red;
+    border-radius: 10px;
 }
